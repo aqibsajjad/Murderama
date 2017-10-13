@@ -24,7 +24,7 @@ public class Game
         outside = new Room("outside the main entrance of the university");
         grydehutten = new Room("");
         cafeteria = new Room("in the cafeteria");
-        U55 = new Room("in lecure room U55");
+        U55 = new Room("in lecture room U55");
         basement = new Room("in the basement of the university");
         U1 = new Room ("in lecture room U1");
         hallway = new Room ("in the long hallway in front of room U55");
